@@ -4,7 +4,7 @@
 
 > 前端使用[vue-admin-template](https://panjiachen.gitee.io/vue-admin-template)
 
-> 后端借鉴了[webssh](https://github.com/huashengdun/webssh),并且新增加录像审计功能[后端]()
+> 后端借鉴了[webssh](https://github.com/huashengdun/webssh),并且新增加录像审计功能[后端](https://github.com/zhxiaohe/webiterm-backend)
 ## Build Setup
 
 ```bash
