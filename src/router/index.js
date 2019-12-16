@@ -55,6 +55,16 @@ export const constantRouterMap = [
     component: () => import('@/views/form/iterm'),
     hidden: true
   },
+  {
+    path: '/action',
+    name: 'action',
+    component: Layout,
+    children: [{
+      path: 'action',
+      component: () => import('@/views/form/action'),
+      meta: { title: 'action', icon: 'link' }
+    }]
+  },
   { path: '*', redirect: '/404', hidden: true }
 ]
 
