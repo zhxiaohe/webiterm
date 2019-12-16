@@ -22,8 +22,15 @@ npm run build
 npm run build --report
 ```
 
-## Demo
-gif
+## Demo(全损画质-_-||)
+### 终端功能
+
+![](./web11.gif)
+
+### 终端录像回放
+
+![](./play22.gif)
 
 ## Extra
 
+本项目只是初步的集成vue+xterm.js，只增加自适应等一些功能
